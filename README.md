@@ -1,3 +1,6 @@
 # github-practice
-A repo for practicing the basics of using git and GitHub
-Practice for using GitHub...text editing blah. test again
+## Practice Area
+
+I am currently a sophomore at UW hoping to go into the **Informatics** program. 
+I enjoy playing *guitar* and doing *photography* outside of class. 
+In my freetime, I also play lots of `video games` as I am a huge nerd.
